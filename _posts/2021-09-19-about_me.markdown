@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Hi there!"
+date:   2021-09-19 13:00:00
+categories: mediator feature
+tags: featured
+---
+
+
+My name is Javier, I'm from Jaén, in the south of Spain and since several years
+ago I'm based in Madrid working as a full time remote Android engineer for
+Virgin Media, together with an amazing team distributed across several countries.
+
+
+I graduated from the University of Malaga, where I started to get more interested
+in programming and where I built my first Android app. Since then, I have been
+permanently linked to this sector, working both in start-ups and consulting
+firms with large teams of programmers creating applications with millions of
+users and well recognized in Google Play.
+
+
+I consider myself a very methodical, organized and autonomous person, a planner
+and very committed to my work, and this is something that I also apply to all
+areas of my life. I like the beach, the sun, living in the city and traveling
+anywhere with my computer so I can work from there.
+
+
+And what do I usually do in my free time? I usually spend it reading articles
+about technology, cryptocurrencies and trying new things related to my work.
+Beyond the computer, I spend a lot of time reading books on psychology and
+personal development. After all, it is also necessary to know the programming
+language of our mind, isn't it? That's what neuro-linguistic programming is all about.
+
+
+I am also passionate about tennis, a sport that I have been watching and playing
+since I was a child, and to which I dedicate many and to which I dedicate many
+hours a week, both in training and in competitions.
+
+
+How do you see your future? My professional interests continue in the development
+of Android applications although I am currently more interested in projects such
+as Kotlin Mobile Multiplatform and in other sectors such as data analysis.
+
+
+If you think I can contribute to your company and your projects or if you want
+to know more about the projects I have worked on as well as my technological
+skills, do not hesitate to contact me. I am always open to new challenges and
+opportunities, to listen to colleagues, industry experts and interesting people.
+Check my LinkedIn profile to get in touch with me!
